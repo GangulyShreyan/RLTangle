@@ -1,0 +1,37 @@
+body{
+    background-color: #b83b5e;
+    text-align: center;
+}
+.container{
+    background-color:white;
+    height:100%;
+}
+
+.center{
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+button{
+    margin-top: 20px;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Vidaloka', serif;
+}
+h1{
+    font-family: 'Coda Caption', sans-serif;
+    font-family: 'Vidaloka', serif;
+}
+
+hr{
+    height:2px;
+    border-width:0;
+    color:gray;
+    background-color:gray;
+}
+
