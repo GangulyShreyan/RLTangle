@@ -56,6 +56,3 @@ def color_detect():
 					mimetype='multipart/x-mixed-replace; boundary=frame')
 
 			
-if __name__ == '__main__':
-	# defining server ip address and port
-	app.run(debug=True)
